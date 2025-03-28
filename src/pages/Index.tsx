@@ -61,7 +61,7 @@ const Index = () => {
           </div>
           
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
-            Welcome to QuizVerse of SCSIT
+            Welcome to Kon Banega Coder (KBC) of Ecell
           </h1>
           
           {userTeam ? (
@@ -121,6 +121,10 @@ const Index = () => {
               </div>
             </div>
           </Card>
+        </div>
+
+        <div className="text-center mt-16 text-gray-500 text-sm">
+          Developed by Gourav Patidar
         </div>
       </div>
     </div>
